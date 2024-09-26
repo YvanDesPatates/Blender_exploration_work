@@ -1,3 +1,4 @@
 /cache_fluid*/
 *.blend1
 blend_files/non_rendus/*
+*anim_*
